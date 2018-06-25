@@ -1,0 +1,26 @@
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\bin\Release\MSLauncher.exe
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\bin\Release\MSLauncher.pdb
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.Form1.resources
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.Properties.Resources.resources
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.csproj.GenerateResource.Cache
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.exe
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.pdb
+C:\Users\政憲\Documents\Visual Studio 2015\Projects\MSLauncher\MSLauncher\obj\Release\MSLauncher.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\bin\Release\MSLauncher.exe
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\bin\Release\MSLauncher.pdb
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.Form1.resources
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.Properties.Resources.resources
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.exe
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\obj\Release\MSLauncher.pdb
+C:\Users\USER\Desktop\MSLauncher\MSLauncher\bin\Release\MSLauncher.exe.config
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\bin\Release\MSLauncher.exe.config
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\bin\Release\MSLauncher.exe
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\bin\Release\MSLauncher.pdb
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.Form1.resources
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.Properties.Resources.resources
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.exe
+C:\Users\USER\Desktop\MSLauncher for twms\MSLauncher\obj\Release\MSLauncher.pdb
