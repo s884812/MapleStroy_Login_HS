@@ -1,8 +1,0 @@
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\bin\Debug\MSLauncher.exe
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\bin\Debug\MSLauncher.pdb
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.csprojResolveAssemblyReference.cache
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.Form1.resources
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.Properties.Resources.resources
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.csproj.GenerateResource.Cache
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.exe
-c:\users\政憲\documents\visual studio 2015\Projects\MSLauncher\MSLauncher\obj\Debug\MSLauncher.pdb

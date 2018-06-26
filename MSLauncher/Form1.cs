@@ -42,15 +42,12 @@ namespace MSLauncher
                         }
                     }
                     sr.Close();// 關閉串流
-                    if (blnSearch == false)
+                    if (blnSearch == false) //如果檔案內沒有寫入HS的IP
                     {
                         StreamWriter sw = new StreamWriter(@"C:\WINDOWS\System32\drivers\etc\hosts");
                         sw.Write("202.80.106.36 tw.hackshield.gamania.com");
                         sw.Close();
-                        MessageBox.Show("寫入OK");
-                    }
-                    else {
-                        MessageBox.Show("blnSearch=true");
+                        //MessageBox.Show("寫入OK");
                     }
                 }
                 String ip = "127.0.0.1"; //自己改ip啦
@@ -63,13 +60,13 @@ namespace MSLauncher
                 {
                     File.Create(path);
                     TextWriter tw = new StreamWriter(path);
-                    tw.WriteLine("讀取檔案發生錯誤" + ex);
+                    tw.WriteLine("讀寫檔案發生錯誤" + ex);
                     tw.Close();
                     MessageBox.Show("寫入不成功");
                 }
                 else {
                     TextWriter tw = new StreamWriter(path);
-                    tw.WriteLine("讀取檔案發生錯誤" + ex);
+                    tw.WriteLine("讀寫檔案發生錯誤" + ex);
                     tw.Close();
                     MessageBox.Show("寫入不成功");
                 }
